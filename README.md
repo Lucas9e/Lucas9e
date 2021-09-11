@@ -27,6 +27,28 @@ Are NBA players better than they were historically?
 * 2 - Complete stats rose in all categories for players which correlated with pace of play
 
 Project 4 - 
+What factors need to be addressed to reduce crime and police violence in America
+* •	We found that Blacks and Hispanics are killed by a higher rate per population than Whites. 
+* •	There is a correlation with the poverty rate in the counties with high crime. 
+* •	There is a high rate of Police related crimes in the Southwest, Arizona and Texas region. 
+* •	Black and White Segregation correlate very strongly with Crime. Areas more integrated have less crime.
+* •	There does not seem to be much correlation in State voting and crime. 
+
+Project 5 - 
+Is the idea of flying safe and what is the safest airline?
+* 1) Flying Commercial has a very small number of incidents when compared with the complete data. 
+* 2) When comparing flying to alternate modes of transportation it is by far the safest. 
+* 3) Airline accidents have been decreasing over the years and are at an all time low. 
+* 4) Southwest is the safest airline to fly by the numbers. 
+
+Project 6 - 
+Is there a correlation between political stance and an areas Coronavirus response, outbreaks and shutdowns.
+* 1) Areas of smaller population had a higher google search rate towards Covid being a Hoax per population.
+* 2) Searchs towards corona being a hoax lined up with President Trump Questioning the Virus. 
+* 3) Covid Death Rates seemed to follow large cities which were mostly left leaning areas but could not directly correlate with politically party over population per area. 
+
+Project 7 - 
+
 
 
 
