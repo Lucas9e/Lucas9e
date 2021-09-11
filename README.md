@@ -12,4 +12,7 @@ Predicting best ways to win a chess match.
 * - Queen's Pawn Game: Zukertort Variation
 * - Philidor Defense
 
+Project 2 -
+Predicting
+
 
