@@ -48,7 +48,10 @@ Is there a correlation between political stance and an areas Coronavirus respons
 * 3) Covid Death Rates seemed to follow large cities which were mostly left leaning areas but could not directly correlate with politically party over population per area. 
 
 Project 7 - 
-
+What played a factor in the deaths on the Titanic?
+* 1) 3rd class passengers died at the highest rate and actually 2nd class passengers survived at a higher rate than 1st class.
+* 2) Females survived around 2 times more than males.
+* 3) Passengers from England died at a much higher rate than any other passengers. 
 
 
 
