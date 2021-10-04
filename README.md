@@ -1,3 +1,18 @@
+# About Section
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## About me
+  1. A numbered list
+ 
+ # Contact Me
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Cell and Email
+  1. Cell 984 292 2591
+  2. Email Lucas.edmisten82@gmail.com
+
 # Lucas Edmisten Data Analytics Projects
 
 Project 1 -
