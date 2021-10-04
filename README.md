@@ -2,8 +2,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ## About me
-  1. A numbered list
+  ## I am currently living in NC working remotely for Amazon while I pursue a Data Science Masters Degree. 
  
  # Contact Me
 <details>
@@ -14,8 +13,10 @@
   2. Email Lucas.edmisten82@gmail.com
 
 # Lucas Edmisten Data Analytics Projects
+  <details>
+  <summary>Click to expand!</summary>
 
-Project 1 -
+## Project 1 -
 Predicting best ways to win a chess match.
 * I went through different variables in a chess match to see what corelates to winning.
 * The two main points I found that correlate with winning are:
