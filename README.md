@@ -4,6 +4,8 @@
   
   ## I am currently living in NC working remotely for Amazon while I pursue a Data Science Masters Degree. 
  
+  </details>
+
  # Contact Me
 <details>
   <summary>Click to expand!</summary>
@@ -11,6 +13,9 @@
   ## Cell and Email
   1. Cell 984 292 2591
   2. Email Lucas.edmisten82@gmail.com
+  
+  </details>
+
 
 # Lucas Edmisten Data Analytics Projects
   <details>
@@ -69,5 +74,5 @@ What played a factor in the deaths on the Titanic?
 * 2) Females survived around 2 times more than males.
 * 3) Passengers from England died at a much higher rate than any other passengers. 
 
-
+</details>
 
